@@ -1,0 +1,14 @@
+# Dataset and generated training artefacts
+data/
+dataset_modelo/
+artifacts/
+logs/
+*.keras
+*.h5
+*.tflite
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
